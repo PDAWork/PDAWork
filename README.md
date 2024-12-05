@@ -9,7 +9,7 @@ Hi 👋 My name is Daniil
 <!--START_SECTION:waka-->
 
 ```txt
-Image (svg)   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
