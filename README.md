@@ -6,14 +6,6 @@ Hi 👋 My name is Daniil
   <img height="180em" src="https://github-readme-stats-pdas-projects.vercel.app/api/top-langs/?username=PDAWork&layout=compact&count_private=true&theme=nord&exclude_repo=colege&hide=python,html,C#,C++,jupyter%20notebook"/>
   </a>
 </div>
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
   ###
   #
   
